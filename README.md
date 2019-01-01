@@ -2,6 +2,11 @@
 
 > A Vue.js project
 
+
+基于vue+element实现的pos点餐页面，适合初学vue的学习参考。
+
+
+
 ## Build Setup
 
 ``` bash
